@@ -1,2 +1,2 @@
-# deploy-heroku
-Deploy an Image Classification Model on Heroku
+# Image Classification Model
+Deployment of image classification model on heroku
